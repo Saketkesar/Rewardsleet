@@ -28,7 +28,7 @@ Welcome to the installation guide for the new version of RewardsLeet WebExtensio
 5. **Extension Installed:**
    - You should now see the RewardsLeet extension icon in your browser's toolbar.
 
-![Installation Completed](Screenshot_2023-09-08_180137.png)
+![Installation Completed](image.png)
 
 Congratulations! The RewardsLeet WebExtension has been successfully installed on your browser. You can now start using it to earn Microsoft Rewards points.
 
