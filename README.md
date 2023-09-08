@@ -2,7 +2,7 @@
 Download Rewardsleet web extension from our official page
 # RewardsLeet WebExtension - Installation Guide
 
-![Extension Logo](image.png)
+![Extension Logo](icon128.png)
 
 Welcome to the installation guide for the new version of RewardsLeet WebExtension. This extension helps you easily grind Microsoft Rewards points.
 
