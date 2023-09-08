@@ -9,7 +9,7 @@ Welcome to the installation guide for the new version of RewardsLeet WebExtensio
 ## Installation Steps
 
 1. **Download the Extension:**
-   - Click [here](link_to_download_extension.zip) to download the latest version of the extension (ZIP file).
+   - Click [here](https://github.com/Saketkesar/Rewardsleet/releases/download/v1.1.1/Rewardsleet2.0.zip) to download the latest version of the extension (ZIP file).
 
 2. **Extract the ZIP Archive:**
    - Locate the downloaded ZIP file in your Downloads folder.
