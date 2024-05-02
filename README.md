@@ -16,7 +16,7 @@ Welcome to the installation guide for the new version of RewardsLeet WebExtensio
 ## Installation Steps
 
 1. **Download the Extension:**
-   - Click [here](https://coginsight.me) to download the latest version of the extension (ZIP file).
+   - Click [here](https://sleet.pages.dev/) to download the latest version of the extension (ZIP file).
 
 2. **Extract the ZIP Archive:**
    - Locate the downloaded ZIP file in your Downloads folder.
