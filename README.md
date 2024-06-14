@@ -1,6 +1,6 @@
 # Rewardsleet
-Download Rewardsleet web extension from our official page
-# RewardsLeet WebExtension - Installation Guide
+Download the Rewardsleet web extension from our official page. The first time you install it, you may be redirected to an advertisement page. Please be cautious and avoid downloading anything from the ads. We apologize for the inconvenience, but these advertisements help support us. Thank you!
+# Rewardsleet WebExtension - Installation Guide
 ![virus total](image_2023-10-21_205025242.png)
  I wanted to assure you that your privacy is 100% secure when using our Rewardsleet web extension. Recently, our extension was unexpectedly removed from the Microsoft store, which was flagged as malware. I want to clarify that this was a mistake, and our extension is completely safe to use.
 
