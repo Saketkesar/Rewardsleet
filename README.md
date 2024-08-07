@@ -46,6 +46,6 @@ Please note that this extension is safe and free of malicious content. If you en
 
 ## Contributors
 
-A special thanks to Dipyan Roy for suggesting the maximum delay of 10-15 minutes to avoid ID bans. Your input is greatly appreciated!
+A special thanks to Dipyan Roy for suggesting the maximum delay of 10-15 sec to avoid ID bans. Your input is greatly appreciated!
 
 Enjoy using Rewardsleet!
