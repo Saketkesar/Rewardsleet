@@ -19,7 +19,7 @@ We apologize for any inconvenience caused and appreciate your understanding and 
 ## Installation Steps
 
 1. **Download the Extension:**
-   - Click [here](https://github.com/Saketkesar/Rewardsleet/releases/download/v1.1.2/rewardsleet.v17.zip) to download the latest version of the extension (ZIP file).
+   - Click [here](https://github.com/Saketkesar/Rewardsleet/releases/download/v1.1.3/rewardsleet.v1.1.3.zip) to download the latest version of the extension (ZIP file).
 
 2. **Extract the ZIP Archive:**
    - Locate the downloaded ZIP file in your Downloads folder.
